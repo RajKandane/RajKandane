@@ -1,15 +1,15 @@
 <h1 align="left">Hi 👋! My name is RAJ</h1>
 
 ###
-
 <h3 align="left">✨ Creating bugs since 2019</h3>
 
-###
-
+<br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RajKandane&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RajKandane&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RajKandane&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=RajKandane&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
+
+<br>
 
 ###
 
@@ -77,6 +77,13 @@
 
 ###
 
+<br>
+
+###
+
+<h3 align="left">Social</h3>
+
+###
 
 <div align="left">
   
