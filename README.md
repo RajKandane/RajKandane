@@ -11,6 +11,8 @@
 
 <br>
 
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajkandane" alt="rajkandane" /></a> </p> <br> -->
+
 ###
 
 <h3 align="left">I code with</h3>
@@ -105,3 +107,7 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
+
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rajkandane&label=Profile%20views&color=758bbd&style=flat-square" alt="rajkandane" /> </p>
+
