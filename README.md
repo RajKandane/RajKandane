@@ -1,21 +1,41 @@
+
 <h1 align="left">Hey 👋! This Is RAJ Here</h1>
 
 ###
 <h3 align="left">✨ Creating bugs since 2019</h3>
 
 <br>
+
+# 💫 About Me:
+🔭 **I’m currently working on:**  <br>Improving cloud-based solutions and implementing new Technologys.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects and Backend Development<br><br>🌱 **I’m currently learning:**  <br>Advanced AWS Services and Magento<br><br>💬 **Ask me about:**  <br>python, java, JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love creating content.
+
+<br>
+
+# 📊 GitHub Stats:
+
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RajKandane&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=RajKandane&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-<br>
+  <div align="center">
+
+## 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=RajKandane&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=RajKandane&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajkandane" alt="rajkandane" /></a> </p> <br> -->
 
 ###
 
-<h3 align="left">I code with</h3>
+# 💻 Tech Stack:
 
 ###
 
@@ -83,7 +103,8 @@
 
 ###
 
-<h3 align="left">Social</h3>
+
+## 🌐 Socials:
 
 ###
 
@@ -108,6 +129,8 @@
   </a>
 </div>
 
+
 <br>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rajkandane&label=Profile%20views&color=758bbd&style=flat-square" alt="rajkandane" /> </p>
 
