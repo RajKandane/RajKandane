@@ -11,6 +11,11 @@
 
 <br>
 
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@rajkandane/30-nites-of-code)  
+  ![@rajkandane #30NitesOfCode](https://www.codedex.io/api/petStatus?user=rajkandane)
+
 # 📊 GitHub Stats:
 
 <div align="center">
