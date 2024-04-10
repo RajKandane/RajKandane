@@ -107,18 +107,18 @@
   <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="unrealengine logo"  />
 </div>
 
-###
 
-<img align="right" height="200" src="RAJ/Gojo.gif" alt="Gojo Image">
-
-###
 
 <br>
 
 ###
 
 
-## 🌐 Socials:
+# 🌐 Socials:
+
+###
+
+<img align="right" height="200" src="RAJ/Gojo.gif" alt="Gojo Image">
 
 ###
 
@@ -135,7 +135,12 @@
   <a href="https://www.linkedin.com/in/dkteriteshkumarkandane/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-    
+  
+</div>
+
+###
+
+<div align="left">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <a href="htttp.test.com" target="_blank">
@@ -143,7 +148,8 @@
   </a>
 </div>
 
-
+<br>
+<br>
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rajkandane&label=Profile%20views&color=758bbd&style=flat-square" alt="rajkandane" /> </p>
