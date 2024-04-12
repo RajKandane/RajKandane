@@ -7,23 +7,26 @@
 <br>
 
 # 💫 About Me:
+
+<img align="right" height="450" src="RAJ/Solo_leveling.gif" alt="Solo_leveling gif">
+
 🔭 **I’m currently working on:**  <br>Improving cloud-based solutions and implementing new Technologys.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects and Backend Development<br><br>🌱 **I’m currently learning:**  <br>Advanced AWS Services and Magento<br><br>💬 **Ask me about:**  <br>python, java, JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love creating content.
 
 <br>
 
 
+<br>
+<br>
 
+# Say Hi To Drago 
 
-## #30NitesOfCode:
 <div align="center">
   
-[Check out my progress!](https://www.codedex.io/@rajkandane/30-nites-of-code)  
-<br>
-![@rajkandane #30NitesOfCode](https://www.codedex.io/api/petStatus?user=rajkandane)
+<img height="200" src="RAJ/Drago.gif" alt="Drago gif">
 
 </div>
 
-
+<br>
 
 
 
