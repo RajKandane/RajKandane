@@ -22,7 +22,7 @@
 
 <div align="center">
   
-<img height="200" src="RAJ/Drago.gif" alt="Drago gif">
+<img height="250" src="RAJ/Menhera-kun_02.gif" alt="Menhera-kun_02">
 
 </div>
 
